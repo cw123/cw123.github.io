@@ -4,7 +4,7 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-![curve logo](https://github.com/cw123/cw123.github.io/blob/master/assets/img/curve-logo1.png)
+![curve logo](assets/img/curve-logo1.png)
 
 ## Curve
 CURVE is a distributed storage system designed and developed independently by NetEase, featured with high performance, high availability, high reliability and well expansibility, and it can serve as the basis for storage systems designed for different scenario (e.g. block storage, object storage and cloud database).
@@ -80,4 +80,4 @@ All the developments will be done under master branch. If there's any new versio
 - [FAQ](https://github.com/openCURVE/CURVE/wiki/CURVE-FAQ)：Frequently asked question in our user group, and we'll keep working on it.
 - User group：We use Wechat group currently.
 
-![curve wechat](https://github.com/cw123/cw123.github.io/blob/master/asserts/img/curve-wechat.jpeg)
+![curve wechat](/assets/img/curve-wechat.jpeg)
