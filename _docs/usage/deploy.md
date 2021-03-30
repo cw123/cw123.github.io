@@ -1,5 +1,5 @@
 ---
-title: Font Awesome Icon List
+title: deploy
 permalink: /docs/depoly/
 description: how to deploy curve
 ---
