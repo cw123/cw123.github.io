@@ -4,9 +4,9 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-<img src="asserts/img/curve-logo1.png"/>
+![curve logo](/asserts/img/curve-logo1.png)
 
-# CURVE
+## Curve
 CURVE is a distributed storage system designed and developed independently by NetEase, featured with high performance, high availability, high reliability and well expansibility, and it can serve as the basis for storage systems designed for different scenario (e.g. block storage, object storage and cloud database).
 
 So far, we have implemented a high performance block storage system, which supports snapshot, clone and recovery, and it can be attached to QEMU virtual machine or physical machine (by curve-nbd). CURVE has been served as an elastic block storage service inside NetEase for a certain time, during which high performance and reliability have shown.
@@ -80,4 +80,4 @@ All the developments will be done under master branch. If there's any new versio
 - [FAQ](https://github.com/openCURVE/CURVE/wiki/CURVE-FAQ)：Frequently asked question in our user group, and we'll keep working on it.
 - User group：We use Wechat group currently.
 
-<img src="asserts/img/curve-wechat.jpeg" style="zoom: 75%;" />
+![curve wechat](/asserts/img/curve-wechat.jpeg)
