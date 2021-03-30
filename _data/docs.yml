@@ -1,0 +1,10 @@
+- title: Documentation
+  docs:
+  - title: home
+    path: docs/index.md
+
+- title: Quick Start
+  docs:
+  - title: deploy on single machine
+    path: usage/deploy-on-single-machine.md
+
