@@ -1,6 +1,6 @@
 ---
 title: deploy
-permalink: /docs/depoly/
+permalink: /docs/deploy/
 description: how to deploy curve
 ---
 
