@@ -1,7 +1,7 @@
 ---
 title: Welcome
 permalink: /docs/home/
-redirect_from: /docs/index.html
+redirect_from: /docs/index.md
 ---
 
 ![curve logo](/assets/img/curve-logo1.png)

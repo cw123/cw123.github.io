@@ -2,6 +2,7 @@
 title: deploy
 permalink: /docs/deploy/
 description: how to deploy curve
+redirect_from: /usage/deploy.md
 ---
 
 ## 概述
